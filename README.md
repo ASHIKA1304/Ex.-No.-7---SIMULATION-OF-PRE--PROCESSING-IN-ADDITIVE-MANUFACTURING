@@ -44,11 +44,12 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![Uploading Screenshot 2025-05-02 053112.png…]()
+
+![Screenshot 2025-05-02 053112](https://github.com/user-attachments/assets/96e997b2-e0ce-4822-8cb4-c514b42eca16)
 
 
-### Name:
-### Register Number:
+### Name:ASHIKA TR
+### Register Number: 212224220011
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
